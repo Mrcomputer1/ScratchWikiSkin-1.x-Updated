@@ -1,5 +1,5 @@
 /*
- * File copied from original 1.x Scratch Wiki Skin, with same parts added and removed
+ * File copied from original 1.x Scratch Wiki Skin, with some parts added and removed
  */
 
 function showpersonallinks() {

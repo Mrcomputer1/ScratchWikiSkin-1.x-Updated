@@ -67,7 +67,6 @@ class ScratchWikiSkin1Template extends BaseTemplate {
 
                 <div id="searchbar">
                     <?php
-                    // TODO: Implementation needed
                     if($config->get('SWS1UseCSESearch')) {
                         ?>
                         <form action="<?php $this->text('wgScript'); ?>" id="cse-search-box">
