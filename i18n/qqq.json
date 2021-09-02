@@ -1,0 +1,29 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mrcomputer1"
+        ]
+    },
+
+    "scratchwikiskin1-desc": "Description of the skin",
+    "scratchwikiskin1-name": "Name of the skin",
+
+    "scratchwikiskin1-nav-home": "Header home",
+    "scratchwikiskin1-nav-projects": "Header projects",
+    "scratchwikiskin1-nav-galleries": "Header galleries",
+    "scratchwikiskin1-nav-support": "Header support",
+    "scratchwikiskin1-nav-forums": "Header forums",
+    "scratchwikiskin1-nav-about": "Header about",
+    "scratchwikiskin1-nav-mystuff": "Header my stuff",
+
+    "scratchwikiskin1-user-logout": "Header logout",
+    "scratchwikiskin1-user-login-signup": "Header login and sign up",
+    "scratchwikiskin1-search": "Header search",
+
+    "scratchwikiskin1-footer-download": "Footer download",
+    "scratchwikiskin1-footer-donate": "Footer donate",
+    "scratchwikiskin1-footer-privacy": "Footer privacy policy",
+    "scratchwikiskin1-footer-terms": "Footer terms of use",
+    "scratchwikiskin1-footer-copyright": "Footer copyright policy",
+    "scratchwikiskin1-footer-contact": "Footer contact us"
+}

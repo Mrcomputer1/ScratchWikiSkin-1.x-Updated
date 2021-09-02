@@ -1,0 +1,43 @@
+{
+    "name": "Updated 1.x Scratch Wiki Skin",
+    "author": "Based on the original 1.x Scratch Wiki Skin, updated to modern MediaWiki by Mrcomputer1",
+    "url": "https://github.com/Mrcomputer1/ScratchWikiSkin-1.x-Updated",
+    "descriptionmsg": "scratchwikiskin1-desc",
+    "namemsg": "scratchwikiskin1-name",
+    "type": "skin",
+    "version": "1.0.0",
+    "ValidSkinNames": {
+        "scratchwikiskin1": "ScratchWikiSkin1"
+    },
+    "AutoloadClasses": {
+        "SkinScratchWikiSkin1": "ScratchWikiSkin1.php"
+    },
+    "MessagesDirs": {
+        "ScratchWikiSkin1": "i18n"
+    },
+    "ResourceModules": {
+        "skins.scratchwikiskin1": {
+            "styles": {
+                "resources/main.css": {"media": "screen"},
+                "resources/fixes.css": {"media": "screen"}
+            }
+        },
+        "skins.scratchwikiskin1.js": {
+            "scripts": [
+                "resources/scratchskin.js"
+            ],
+            "position": "bottom"
+        }
+    },
+    "ResourceFileModulePaths": {
+        "localBasePath": "",
+        "remoteSkinPath": "ScratchWikiSkin1"
+    },
+    "config": {
+        "SWS1UseCSESearch": true,
+        "SWS1CSESearchID": "005211699805409077090:s-ufejuw2ey",
+        "SWS1CSESearchPage": "Project:Search"
+    },
+
+    "manifest_version": 1
+}

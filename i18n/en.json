@@ -1,0 +1,30 @@
+{
+    "@metadata": {
+        "authors": [
+            "Original creators of the 1.x Scratch Wiki Skin",
+            "Mrcomputer1"
+        ]
+    },
+
+    "scratchwikiskin1-desc": "A skin, based on the original 1.x Scratch Wiki Skin, that works on modern MediaWiki versions.",
+    "scratchwikiskin1-name": "Updated 1.x Scratch Wiki Skin",
+
+    "scratchwikiskin1-nav-home": "home",
+    "scratchwikiskin1-nav-projects": "projects",
+    "scratchwikiskin1-nav-galleries": "galleries",
+    "scratchwikiskin1-nav-support": "support",
+    "scratchwikiskin1-nav-forums": "forums",
+    "scratchwikiskin1-nav-about": "about",
+    "scratchwikiskin1-nav-mystuff": "my stuff",
+
+    "scratchwikiskin1-user-logout": "Logout",
+    "scratchwikiskin1-user-login-signup": "Login and Sign up",
+    "scratchwikiskin1-search": "Search",
+
+    "scratchwikiskin1-footer-download": "Download",
+    "scratchwikiskin1-footer-donate": "Donate",
+    "scratchwikiskin1-footer-privacy": "Privacy Policy",
+    "scratchwikiskin1-footer-terms": "Terms of Use",
+    "scratchwikiskin1-footer-copyright": "Copyright Policy",
+    "scratchwikiskin1-footer-contact": "Contact Us"
+}
