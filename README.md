@@ -17,5 +17,5 @@ This is not an official update of the 1.x Scratch Wiki Skin.
 **$wgSWS1CSESearchPage**: MediaWiki page to go too (mediawiki page string, default: `Project:Search`)
 
 ## Credits
-* The creators of the original 1.x Scratch Wiki Skin: for originally creating the 1.x Scratch Wiki Skin. (not sure who specifically created the skin though)
+* The creators of the original 1.x Scratch Wiki Skin (likely [JSO](https://github.com/jorenl)): for originally creating the 1.x Scratch Wiki Skin.
 * jvvg: for locating the source code for the original 1.x Scratch Wiki Skin and uploading it to GitHub [here](https://github.com/InternationalScratchWiki/ScratchWikiSkin-1.x)
